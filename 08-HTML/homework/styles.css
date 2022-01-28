@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://fondosmil.com/fondo/75572.jpg");
+    font-family: cursive;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: darkcyan;
+}
+
+img {
+    width: 400px;
+}
+
+.divClass{
+    width: 60%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.424);
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.424);
+    padding: 50px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: darkcyan;
+}
+
+#spanId {
+    font-family: cursive;
+    margin: 50px;
+    background-color: gray;
+}
+
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
